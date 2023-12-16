@@ -2,8 +2,8 @@
 
 ## Course Contents
 
-# |Chapter|
---|-------|
+Chapter # |Chapter|
+----------|-------|
 1 |[Introduction to LLMs and generative AI project lifecycle](./notes/Chapter_1.md)|
 2 | [LLM pre-training and scaling laws](./notes/Chapter_2.md)|
 3 | [Fine-tuning LLMs with instruction](./notes/Chapter_3.md)|
