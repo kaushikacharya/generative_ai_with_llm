@@ -14,6 +14,7 @@
 12. [Generative AI project lifecycle](#generative-ai-project-lifecycle)
 13. [Introduction to AWS labs](#introduction-to-aws-labs)
 14. [Lab 1 walkthrough](#lab-1-walkthrough)
+15. [Lab 1 - Generative AI Use Case: Summarize Dialogue](#lab-1---generative-ai-use-case-summarize-dialogue)
 
 ## Course introduction
 
@@ -57,7 +58,7 @@
 
 ## Text generation before transformers
 
-### Generating text with RNNS
+### Generating text with RNNs
 
 - RNNs were limited by the amount of compute and memory needed to perform well at generative tasks.
 - To successfully predict the next word, models need to see more than just the previous few words.
@@ -215,3 +216,7 @@
 ## Introduction to AWS labs
 
 ## Lab 1 walkthrough
+
+## Lab 1 - Generative AI Use Case: Summarize Dialogue
+
+- [Notebook](../code/Lab_1_summarize_dialogue.ipynb)
