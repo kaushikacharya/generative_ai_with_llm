@@ -7,12 +7,14 @@ Chapter # |Chapter|
 1 |[Introduction to LLMs and generative AI project lifecycle](./notes/Chapter_1.md)|
 2 | [LLM pre-training and scaling laws](./notes/Chapter_2.md)|
 3 | [Fine-tuning LLMs with instruction](./notes/Chapter_3.md)|
+4 | [Parameter Efficient Fine-Tuning](./notes/Chapter_4.md)|
 
 ## Lab assignments
 
 Lab #|Assignment|Description|
 -----|----------|-----------|
-1    |[Generative AI Use Case: Summarize Dialogue](./notes/Chapter_1.md#lab-1---generative-ai-use-case-summarize-dialogue)|<ul><li>Perform prompt engineering</li><li>Compare zero shot, one shot and few shot inferences</ul>
+1    |[Generative AI Use Case: Summarize Dialogue](./notes/Chapter_1.md#lab-1---generative-ai-use-case-summarize-dialogue)|<ul><li>Perform prompt engineering</li><li>Compare zero shot, one shot and few shot inferences</ul>|
+2    |[Fine-Tune a Generative AI Model for Dialogue Summarization](./notes/Chapter_4.md#lab-2---fine-tune-a-generative-ai-model-for-dialogue-summarization)|<ul><li>Perform full fine-tuning and PEFT</li><li>Evaluate results with ROUGE metrics</li></ul>|
 
 ## FAQs
 
@@ -20,4 +22,4 @@ Lab #|Assignment|Description|
 
 ## Lecture Notes
 
-- [Week 1](https://community.deeplearning.ai/t/genai-with-llms-lecture-notes/361913)
+- [Notes](https://community.deeplearning.ai/t/genai-with-llms-lecture-notes/361913)
