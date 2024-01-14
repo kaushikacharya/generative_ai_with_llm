@@ -1,5 +1,9 @@
 # Generative AI with Large Language Models
 
+## Course Info
+
+- [URL](https://www.coursera.org/learn/generative-ai-with-llms)
+
 ## Course Contents
 
 Chapter # |Chapter|
@@ -9,6 +13,8 @@ Chapter # |Chapter|
 3 | [Fine-tuning LLMs with instruction](./notes/Chapter_3.md)|
 4 | [Parameter Efficient Fine-Tuning](./notes/Chapter_4.md)|
 5 | [Reinforcement Learning from Human Feedback](./notes/Chapter_5.md)|
+6 | [LLM-powered applications](./notes/Chapter_6.md)|
+7 | [Course conclusion and ongoing research](./notes/Chapter_7.md)|
 
 ## Lab assignments
 
@@ -25,3 +31,8 @@ Lab #|Assignment|Description|
 ## Lecture Notes
 
 - [Notes](https://community.deeplearning.ai/t/genai-with-llms-lecture-notes/361913)
+
+## Certificate
+
+- [Course completion certificate](https://kaushikacharya.github.io/assets/certificates/Coursera_Certificate_Generative_AI_with_Large_Language_Models.pdf)
+- Issued on Jan 2024
