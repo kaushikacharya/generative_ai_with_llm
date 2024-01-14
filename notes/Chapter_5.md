@@ -138,7 +138,7 @@
   - Combining with PEFT
     - Only update the weights of the PEFT adapter, not the full weights of the LLM
     - This means same underlying LLM can be used for both the reference model and the PPO model
-  
+
 ## KL divergence
 
 - A mathematical measure of the difference between two probability distributions, which helps us understand how one distribution differs from another.
@@ -147,7 +147,7 @@
 
 ## Scaling human feedback
 
-- As the number of models nad use cases increases, human effort becomes a limited resource.
+- As the number of models and use cases increases, human effort becomes a limited resource.
 - One idea to overcome these limitations is to scale through model self supervision.
 - Constitutional AI
   - Model is trained in two distinct phases
