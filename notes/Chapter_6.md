@@ -38,10 +38,17 @@
   - Pruning
 
 - Distillation
-  - Train a smaller student mdoel from a larger teacher model
+  - Train a smaller student model from a larger teacher model
   - Typically useful for encoder model and not for decoder model.
+  - Triple loss function
+    - Distillation loss
+    - Supervised training loss
+    - Cosine embedding loss
   - External resource (KA)
     - A [blog on Knowledge Distillation of Language Models](https://alexnim.com/coding-projects-knowledge-distillation.html)
+      - Softmax temperature function
+        - Shows with diagram how probability distribution changes with increase of temperature (T)
+      - Figure explains the three losses
 
 - Post-Training Quantization (PTQ)
   - Reduce precision of model weights
